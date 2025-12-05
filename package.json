@@ -1,0 +1,14 @@
+{
+  "name": "peg-threejs-glsl",
+  "version": "1.0.0",
+  "description": "Three.js GLSL environment with type suggestions in JS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "three": "^0.154.0"
+  },
+  "type": "module"
+}
